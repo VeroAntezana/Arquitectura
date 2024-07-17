@@ -1,0 +1,4 @@
+No termine del todo este parcial fijarse el el parcial 2 y solo sacar los patrones de diseño 
+y ya esta :)
+Ejecutar el comando 
+php -S localhost:8080 -t public

@@ -1,0 +1,4 @@
+Solo termine un patron de diseño 
+el de estrategia 
+de igual forma ejecutar el comando: php -S localhost:8080 -t public
+para la inicializacion del proyecto
